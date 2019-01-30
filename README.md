@@ -38,7 +38,7 @@ _Zur Installation von Pipenv wird möglicherweise der Paketmanager **Pip** benö
 
 Der Code und das ausführbare Script können mithilfe des Jupyter Notebooks erkundet werden.
 
-* Das **ausführbare Script** befindet sich im in `http://localhost:8888/notebooks/notebooks/get_game_recommendations.ipynb`
+* Das **ausführbare Script** befindet unter `/notebooks/get_game_recommendations.ipynb/`
 * Alle selbstgeschriebenen **Module** befinden sich in /modules/
 * Die verwendeten **Rohdaten** liegen in /sample_data/
 
