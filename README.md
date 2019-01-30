@@ -1,5 +1,8 @@
 Um den Python Code der Bachelorarbeit ausführen zu können müssen folgende Schritte befolgt werden.
+Außerdem existiert eine gehostete Version auf https://mybinder.org/v2/gh/DATADEER/BA-GAME-RECOMMENDER.git/master
+Wer die gehostete Version verwendet, kann gleich bei Schritt 3. (Ausführung) der Anleitung einsteigen.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DATADEER/BA-GAME-RECOMMENDER.git/master)
 ## Repository
 * Das benötigte Repository mit dem Code ist 
   * auf der beigelegten CD zu finden und liegt im Ordner `/CODE/`

@@ -17,6 +17,7 @@ graphqlclient = "*"
 joblib = "*"
 lime = "*"
 pipenv-to-requirements = "*"
+jupyter-contrib-nbextensions = "*"
 
 [dev-packages]
 
