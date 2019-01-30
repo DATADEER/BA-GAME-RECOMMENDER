@@ -63,7 +63,6 @@ def getOwnedGamesIndexes(owned_games, games):
 
 
 def removeGamesFromFeaturesAndLabels(game_indexes, features, labels):
-    print("will remove indexes", game_indexes)
     cleaned_features = features.drop(game_indexes, axis=0)
     cleaned_labels = numpy.delete(labels, game_indexes)
     return {"features": cleaned_features, "labels": cleaned_labels}
