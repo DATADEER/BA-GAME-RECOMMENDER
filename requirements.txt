@@ -53,7 +53,7 @@ parso==0.3.2
 pbr==5.1.1
 pexpect==4.6.0
 pickleshare==0.7.5
-pillow==5.4.1
+pillow==9.3.0
 pipenv-to-requirements==0.6.1
 pipenv==2018.11.26
 prometheus-client==0.5.0
